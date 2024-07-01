@@ -12,6 +12,14 @@
         "CVE-2020-14196",
         "CVE-2020-25829"
       ]
+    },
+    {
+      "Original": "[buster] - pdns-recursor 4.1.11-1+deb10u2",
+      "Type": "package",
+      "Release": "buster",
+      "Package": "pdns-recursor",
+      "Kind": "fixed",
+      "Version": "4.1.11-1+deb10u2"
     }
   ]
 }
